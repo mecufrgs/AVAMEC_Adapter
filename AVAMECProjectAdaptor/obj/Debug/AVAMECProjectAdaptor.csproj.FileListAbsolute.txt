@@ -11,3 +11,16 @@ C:\Users\jpedr\Desktop\AVAMECProjectAdaptor\AVAMECProjectAdaptor\bin\Debug\ICSha
 C:\Users\jpedr\Desktop\AVAMECProjectAdaptor\AVAMECProjectAdaptor\bin\Debug\System.IO.FileSystem.dll
 C:\Users\jpedr\Desktop\AVAMECProjectAdaptor\AVAMECProjectAdaptor\bin\Debug\System.IO.FileSystem.Primitives.dll
 C:\Users\jpedr\Desktop\AVAMECProjectAdaptor\AVAMECProjectAdaptor\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.exe.config
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.exe
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.pdb
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\System.IO.FileSystem.dll
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.csprojResolveAssemblyReference.cache
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.csproj.CoreCompileInputs.cache
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.exe
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.pdb

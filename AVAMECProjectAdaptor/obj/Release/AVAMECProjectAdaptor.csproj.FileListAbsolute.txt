@@ -1,0 +1,13 @@
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Release\AVAMECProjectAdaptor.exe.config
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Release\AVAMECProjectAdaptor.exe
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Release\AVAMECProjectAdaptor.pdb
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Release\System.IO.FileSystem.dll
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Release\AVAMECProjectAdaptor.csproj.CoreCompileInputs.cache
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Release\AVAMECProjectAdaptor.exe
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Release\AVAMECProjectAdaptor.pdb
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Release\AVAMECProjectAdaptor.csprojResolveAssemblyReference.cache
