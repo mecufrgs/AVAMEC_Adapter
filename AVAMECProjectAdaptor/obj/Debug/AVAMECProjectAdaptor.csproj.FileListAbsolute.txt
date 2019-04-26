@@ -20,7 +20,12 @@ C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\System.IO.Fi
 C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\System.IO.FileSystem.Primitives.dll
 C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\ICSharpCode.SharpZipLib.pdb
 C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\ICSharpCode.SharpZipLib.xml
-C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.csprojResolveAssemblyReference.cache
 C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.csproj.CoreCompileInputs.cache
 C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.exe
 C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.pdb
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.exe.manifest
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.exe.manifest
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.application
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.application
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.exe.CodeAnalysisLog.xml
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.exe.lastcodeanalysissucceeded
