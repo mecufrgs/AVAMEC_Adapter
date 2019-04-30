@@ -27,5 +27,4 @@ C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjec
 C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.exe.manifest
 C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.application
 C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.application
-C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.exe.CodeAnalysisLog.xml
-C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\bin\Debug\AVAMECProjectAdaptor.exe.lastcodeanalysissucceeded
+C:\Users\jpedr\Desktop\AVAMECAdapter\AVAMECProjectAdaptor\obj\Debug\AVAMECProjectAdaptor.csprojResolveAssemblyReference.cache

@@ -16,7 +16,7 @@ namespace AVAMECProjectAdaptor
 
         static void Main(string[] args)
         {
-            string currentDirectory = Directory.GetCurrentDirectory() + "\\build";
+            string currentDirectory = Directory.GetCurrentDirectory();
 
             Console.WriteLine("Software para gerar versão de curso desenvolvido em ReactJS pela UFRGS para a plataforma AVAMEC.");
             Console.WriteLine("Desenvolvido por João Pedro S. Silva.");
@@ -24,27 +24,27 @@ namespace AVAMECProjectAdaptor
             Console.WriteLine("---------------------------------------------------------");
             Console.WriteLine("Renomeando arquivos de acordo com os padrões do AVAMEC...");
             RenameFiles();
-            ReplaceNames(currentDirectory);
+            ReplaceNames(currentDirectory + buildFolder);
             Console.WriteLine("---------------------------------------------------------");
             Console.WriteLine("Compactando arquivos para envio...");
             ZipArchives(currentDirectory);
             Console.WriteLine("---------------------------------------------------------");
             Console.WriteLine("Processo finalizado.");
-            Console.WriteLine("Aperte qualquer tecla para finalizar.");
-            Console.ReadLine();
+            Console.WriteLine("Aperte qualquer tecla para finalizar");
+            Console.ReadKey();
         }
 
         static void ZipArchives(string currentDirectory)
         {
             try
             {
-                string zipFilePath = currentDirectory;
+                string zipFilePath = currentDirectory + "\\" + buildZipName;
                 if (File.Exists(zipFilePath))
                 {
                     File.Delete(zipFilePath);
                 }
 
-                ZipFile.CreateFromDirectory(currentDirectory, buildZipName);
+                ZipFile.CreateFromDirectory(currentDirectory + buildFolder, buildZipName);
             }
             catch (IOException io) {
                 Console.WriteLine("Ocorreu o seguinte erro ao tentar comprimir o arquivo: " + io.ToString());

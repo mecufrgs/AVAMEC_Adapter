@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2f312657.chunk.css",
+    "main.js": "./static/js/main.39b18a40.chunk.js",
+    "main.js.map": "./static/js/main.39b18a40.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d653cc00.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d653cc00.js.map",
+    "static/js/2.a95175f5.chunk.js": "./static/js/2.a95175f5.chunk.js",
+    "static/js/2.a95175f5.chunk.js.map": "./static/js/2.a95175f5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.7ac2de72f6b8d51a20972688ffdbbac1.js": "./precache-manifest.7ac2de72f6b8d51a20972688ffdbbac1.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.2f312657.chunk.css.map": "./static/css/main.2f312657.chunk.css.map",
+    "static/media/decomposicao-1.jpg": "./static/media/decomposicao-1.970f5e85.jpg",
+    "static/media/decomposicao-2.png": "./static/media/decomposicao-2.3f0137ea.png",
+    "static/media/decomposicao-3.png": "./static/media/decomposicao-3.25c98df1.png",
+    "static/media/decomposicao-5.jpg": "./static/media/decomposicao-5.e3df0f28.jpg",
+    "static/media/logo.png": "./static/media/logo.df636f47.png",
+    "static/media/mapa-farroupilha.png": "./static/media/mapa-farroupilha.ea38d4c4.png",
+    "static/media/parque-farroupilha.png": "./static/media/parque-farroupilha.3ab89b2d.png",
+    "static/media/petersen-graph-example.png": "./static/media/petersen-graph-example.396378e2.png",
+    "static/media/qualidade-de-vida.png": "./static/media/qualidade-de-vida.f404145c.png",
+    "static/media/tangram-2.jpg": "./static/media/tangram-2.9b888cba.jpg"
+  }
+}
